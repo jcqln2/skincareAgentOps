@@ -1,0 +1,6 @@
+.DS_Store
+.vercel
+node_modules
+.next
+data/events.jsonl
+data/track.jsonl

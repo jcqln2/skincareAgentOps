@@ -1,0 +1,1050 @@
+{
+  "source": "https://www.glossier.com/en-ca/products.json?limit=250",
+  "fetchedAt": "2026-10-24T13:36:36.811Z",
+  "note": "keyIngredients = known ingredient names found verbatim in the product description. empty = unknown. prices are CAD from the en-ca feed.",
+  "products": [
+    {
+      "name": "Black Cherry Lip Line + Balm Duo",
+      "handle": "black-cherry-lip-line-balm-duo",
+      "type": "Makeup",
+      "shortDescription": "The Black Cherry Lip Line + Balm Duo delivers rich burgundy color and effortless definition for your merry little meltdown.",
+      "description": "The Black Cherry Lip Line + Balm Duo delivers rich burgundy color and effortless definition for your merry little meltdown. Two holiday-ready lip essentials in limited-edition mosaic-inspired packaging, so consider the gift wrap handled.",
+      "keyIngredients": [],
+      "price": "CA$27.00",
+      "url": "https://www.glossier.com/en-ca/products/black-cherry-lip-line-balm-duo",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-holiday-26-bdc-ll-duo-pdp-carousel-1.jpg?width=160"
+    },
+    {
+      "name": "Mini Glossier You Wardrobe Kit",
+      "handle": "mini-you-wardrobe-set",
+      "type": "Fragrance",
+      "shortDescription": "Four fragrances, endless versions of you. The Mini Glossier You Wardrobe Kit includes miniature You, Doux, Fleur and Soie, dressed up in limited-edition mosaic-inspired packaging.",
+      "description": "Four fragrances, endless versions of you. The Mini Glossier You Wardrobe Kit includes miniature You, Doux, Fleur and Soie, dressed up in limited-edition mosaic-inspired packaging. A little fragrance wardrobe made for gifting, traveling, layering and trying something new this holiday season!",
+      "keyIngredients": [],
+      "price": "CA$87.00",
+      "url": "https://www.glossier.com/en-ca/products/mini-you-wardrobe-set",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-1008-holiday-26-wardrobe-kit-pdp-carousel-1.png?width=160"
+    },
+    {
+      "name": "Glossier You Duo",
+      "handle": "glossier-holiday-you-duo",
+      "type": "Fragrance",
+      "shortDescription": "Your signature scent, with a little holiday spirit. The Glossier You Duo pairs two sizes of our beloved Glossier You, one for your Top Shelf and one for taking everywhere the season takes you.",
+      "description": "Your signature scent, with a little holiday spirit. The Glossier You Duo pairs two sizes of our beloved Glossier You, one for your Top Shelf and one for taking everywhere the season takes you. Finished in limited-edition mosaic-inspired packaging that’s ready to gift, no wrapping required!",
+      "keyIngredients": [],
+      "price": "CA$123.00",
+      "url": "https://www.glossier.com/en-ca/products/glossier-holiday-you-duo",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-1008-glossier-you-duo-pdp-carousel-01.jpg?width=160"
+    },
+    {
+      "name": "Balm Dotcom Trio",
+      "handle": "balm-dotcom-trio",
+      "type": "Balms",
+      "shortDescription": "universal skin salve, lip care, lip balm, glossier balm dotcom",
+      "description": "universal skin salve, lip care, lip balm, glossier balm dotcom",
+      "keyIngredients": [],
+      "price": "CA$58.00",
+      "url": "https://www.glossier.com/en-ca/products/balm-dotcom-trio",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-holiday-1010-26-bdc-holiday-trio-pdp-carousel-1.png?width=160"
+    },
+    {
+      "name": "The No-Makeup Makeup Kit",
+      "handle": "the-no-makeup-makeup-kit",
+      "type": "Makeup",
+      "shortDescription": "Your shortcut to looking like the best version of yourself.",
+      "description": "Your shortcut to looking like the best version of yourself. The No-Makeup Makeup Kit pairs three everyday icons: Lash Slick for long, defined lashes that won’t budge, Boy Brow for soft, fluffy brows with flexible hold, and Stretch Balm Concealer for medium, dewy coverage wherever you want it. Together, they create a fresh-faced look that enhances, never hides.",
+      "keyIngredients": [],
+      "price": "CA$74.00",
+      "url": "https://www.glossier.com/en-ca/products/the-no-makeup-makeup-kit",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-nomakeupmakeup-carousel-01.png?width=160"
+    },
+    {
+      "name": "The Face Kit",
+      "handle": "the-face-kit",
+      "type": "Makeup",
+      "shortDescription": "foundation, skin tint, buildable foundation, sheer foundation, dewy foundation, concealer, light concealer, sheer concealer, buildable concealer",
+      "description": "foundation, skin tint, buildable foundation, sheer foundation, dewy foundation, concealer, light concealer, sheer concealer, buildable concealer",
+      "keyIngredients": [],
+      "price": "CA$64.00",
+      "url": "https://www.glossier.com/en-ca/products/the-face-kit",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-pst-concealer-carousel-01_0dba3ecc-7ff7-4fbe-8bca-35014f8ab94b.png?width=160"
+    },
+    {
+      "name": "Travel Spray + Balm",
+      "handle": "travel-spray-balm",
+      "type": "Fragrance",
+      "shortDescription": "The ultimate on-the-go duo: Balm Dotcom for instant nourishment and Glossier You Travel Spray for fragrance touch-ups. Ideal for any handbag or makeup bag.",
+      "description": "The ultimate on-the-go duo: Balm Dotcom for instant nourishment and Glossier You Travel Spray for fragrance touch-ups. Ideal for any handbag or makeup bag.",
+      "keyIngredients": [],
+      "price": "CA$0.00",
+      "url": "https://www.glossier.com/en-ca/products/travel-spray-balm",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-you-flexsets-BDC-8ml-duo-2-01.jpg?width=160"
+    },
+    {
+      "name": "Fragrance Two Ways",
+      "handle": "fragrance-two-ways",
+      "type": "Fragrance",
+      "shortDescription": "Get the best of both worlds with this skin-scent enhancing fragrance set.",
+      "description": "Get the best of both worlds with this skin-scent enhancing fragrance set.",
+      "keyIngredients": [],
+      "price": "CA$0.00",
+      "url": "https://www.glossier.com/en-ca/products/fragrance-two-ways",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/fragrance-two-ways-01.png?width=160"
+    },
+    {
+      "name": "Smile Wave Pet Waste Bags",
+      "handle": "smile-wave-pet-waste-bags",
+      "type": "Merch",
+      "shortDescription": "The least glamorous essential, made cute. A cute companion to our Pet Bag Dispenser, this stylish limited edition roll of unscented Glossier pink pet waste bags features our iconic Smile Wave Icon and Glossier logo.",
+      "description": "The least glamorous essential, made cute. A cute companion to our Pet Bag Dispenser, this stylish limited edition roll of unscented Glossier pink pet waste bags features our iconic Smile Wave Icon and Glossier logo. Not glamorous, but absolutely necessary—these easy-tear bags are here for the “oh okay, we’re doing this now” moments. Compact, reliable, and always ready when your dog decides it’s time! Materials : 35% Post-Consumer Recycled Plastic, 65% Recycled Materials. Each roll contains 20 waste bags.",
+      "keyIngredients": [],
+      "price": "CA$7.00",
+      "url": "https://www.glossier.com/en-ca/products/smile-wave-pet-waste-bags",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/GL-Pink-Capsule-PDP-Pet-Waste-Bag1.png?width=160"
+    },
+    {
+      "name": "Pet Waste Bag Dispenser",
+      "handle": "pet-waste-bag-dispenser",
+      "type": "Merch",
+      "shortDescription": "For taking care of business in style. We’ve officially upgraded the least glamorous part of pet parenting! Meet our first-ever limited edition pet waste bag dispenser.",
+      "description": "For taking care of business in style. We’ve officially upgraded the least glamorous part of pet parenting! Meet our first-ever limited edition pet waste bag dispenser. Designed for the reality that keeping things clean is part of the (puppy) love. Adorned with our signature G-logo, this Sunset Pink accessory clips to our You Look Good Leash and fits our Smile Wave Pet Waste Bags perfectly. Materials : ABS Plastic with Silicone Coating.",
+      "keyIngredients": [],
+      "price": "CA$11.00",
+      "url": "https://www.glossier.com/en-ca/products/pet-waste-bag-dispenser",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/GL-Pink-Capsule-PDP-Pet-Wast-Bag-Dispenser1.jpg?width=160"
+    },
+    {
+      "name": "You Look Good Collar",
+      "handle": "you-look-good-collar",
+      "type": "Merch",
+      "shortDescription": "A timeless piece for your furry friend. Designed to match our You Look Good Leash, this stylish, sturdy, and adjustable limited edition collar is made for the dog (or cat!) you love doing life with.",
+      "description": "A timeless piece for your furry friend. Designed to match our You Look Good Leash, this stylish, sturdy, and adjustable limited edition collar is made for the dog (or cat!) you love doing life with. Wrapped in an all-over“You Look Good” mantra print, it brings a little extra charm to their daily lives—at home, on the couch and out in the world. Finished with a secure-locking buckle for peace of mind, so they can do their thing and you don’t have to think twice about it. Materials : Polyamide (Nylon)",
+      "keyIngredients": [],
+      "price": "CA$21.00",
+      "url": "https://www.glossier.com/en-ca/products/you-look-good-collar",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/GL-Pink-Capsule-PDP-Collar1.jpg?width=160"
+    },
+    {
+      "name": "You Look Good Leash",
+      "handle": "you-look-good-leash",
+      "type": "Merch",
+      "shortDescription": "Made for park strolls (and endless detours)! Designed to match our You Look Good Collar, this sturdy limited edition essential is made for your furry friend’s favorite part of the day: the walk.",
+      "description": "Made for park strolls (and endless detours)! Designed to match our You Look Good Collar, this sturdy limited edition essential is made for your furry friend’s favorite part of the day: the walk. Equipped with a D-ring for your waste bag dispenser, it’s wrapped in an all-over “You Look Good” mantra print—bringing a little extra cheer to every step, sniff and stop along the way. Because they lead the way, you just come prepared! Materials : Polyamide Length: 6ft",
+      "keyIngredients": [],
+      "price": "CA$27.00",
+      "url": "https://www.glossier.com/en-ca/products/you-look-good-leash",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/GL-Pink-Capsule-PDP-Leash1.jpg?width=160"
+    },
+    {
+      "name": "Errand Bag",
+      "handle": "errand-bag",
+      "type": "Merch",
+      "shortDescription": "Built for busy days and long to-do lists. Long day ahead? We’ve got you covered. This roomy, super durable limited edition woven tote is ready for wherever the day takes you—planned or not.",
+      "description": "Built for busy days and long to-do lists. Long day ahead? We’ve got you covered. This roomy, super durable limited edition woven tote is ready for wherever the day takes you—planned or not. With a spacious body, a handy pocket for your essentials, and Glossier Pink branded straps in two sizes, it’s built for grocery runs, laundry days, park hangs, those “I’ll just swing by for a minute” plans that turn into staying out way too late! Materials : Body: Woven Polypropylene, Handles: Polyester. Dimensions: One size: 18” x 10” x 13”",
+      "keyIngredients": [],
+      "price": "CA$21.00",
+      "url": "https://www.glossier.com/en-ca/products/errand-bag",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/GL-Pink-Capsule-PDP-Errand-Bag1.jpg?width=160"
+    },
+    {
+      "name": "Embroidered Pink Hoodie",
+      "handle": "embroidered-pink-hoodie",
+      "type": "Merch",
+      "shortDescription": "A hoodie you can live in. Meet your newest cozy companion for morning dog walks, coffee runs, or looking great on WFH video calls.",
+      "description": "A hoodie you can live in. Meet your newest cozy companion for morning dog walks, coffee runs, or looking great on WFH video calls. Our Original Pink Hoodie comes with all the special comfy touches: plush material, pillow-soft fleecy inside, metal-tipped drawstrings, and a relaxed, oversized fit (generous and long; we recommend taking your true size). Materials : 70% cotton; 30% polyester fleece. Designed for a comfy fit Care: Machine wash cold with like colors, normal cycle only, do not bleach. Tumble dry low, do not iron.",
+      "keyIngredients": [],
+      "price": "CA$88.00",
+      "url": "https://www.glossier.com/en-ca/products/embroidered-pink-hoodie",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/Galleryimage1.jpg?width=160"
+    },
+    {
+      "name": "Fragrance Duo",
+      "handle": "fragrance-duo",
+      "type": "Fragrance",
+      "shortDescription": "A skin-scent enhancing fragrance duo.",
+      "description": "A skin-scent enhancing fragrance duo.",
+      "keyIngredients": [],
+      "price": "CA$0.00",
+      "url": "https://www.glossier.com/en-ca/products/fragrance-duo",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/fragrance-duo-01.png?width=160"
+    },
+    {
+      "name": "Fragrance Trio",
+      "handle": "fragrance-trio",
+      "type": "Fragrance",
+      "shortDescription": "A trio of our skin-scent enhancing floral fragrances in a pocket-friendly format. Each sharing the same warm, musky base note, they’re perfect for layering or wearing solo.",
+      "description": "A trio of our skin-scent enhancing floral fragrances in a pocket-friendly format. Each sharing the same warm, musky base note, they’re perfect for layering or wearing solo.",
+      "keyIngredients": [],
+      "price": "CA$0.00",
+      "url": "https://www.glossier.com/en-ca/products/fragrance-trio",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/fragrance-trio-01.png?width=160"
+    },
+    {
+      "name": "Glossier You Discovery Kit",
+      "handle": "glossier-you-mini-wardrobe",
+      "type": "Fragrance",
+      "shortDescription": "Four of our Glossier You Collection fragrances gone mini. A trial-sized collection featuring four of our Glossier You fragrances: You, Doux, Reve, and Fleur.",
+      "description": "Four of our Glossier You Collection fragrances gone mini. A trial-sized collection featuring four of our Glossier You fragrances: You, Doux, Reve, and Fleur. The Glossier You Collection is a collection of skin-scent enhancers that are designed to be layered and played with. This wardrobe of skin-scent enhancers features the same warm and musky base so each fragrance smells a little different on everyone. Glossier You: Top: Pink Pepper Heart: Iris Base: Ambrox, Ambrette Glossier You Fleur Top: Mineral Salt Accord Heart: Osmanthus, Ylang Ylang, Apricot Skin, Cashmeran Base: Ambrox Glossier You Doux Top: Sweet Violet Heart: Palo Santo, Frankincense, Myrrh Base: Ambrox Glossier You Rêve Top: Buttercream Heart: Plum Butter, Toasted Almond, Iris, Sandalwood Base: Ambrox",
+      "keyIngredients": [],
+      "price": "CA$21.00",
+      "url": "https://www.glossier.com/en-ca/products/glossier-you-mini-wardrobe",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-holiday-mini-wardrobe-carousel-01.png?width=160"
+    },
+    {
+      "name": "Glossier You Soie",
+      "handle": "glossier-you-soie",
+      "type": "Fragrance",
+      "shortDescription": "You smell like vacation. You know that feeling you get on vacation, when you’re standing on the beach at dusk? Your skin is still salty and warm, the air is starting to cool, and anything seems possible.",
+      "description": "You smell like vacation. You know that feeling you get on vacation, when you’re standing on the beach at dusk? Your skin is still salty and warm, the air is starting to cool, and anything seems possible. That’s Glossier You Soie. A skin-scent enhancing sensual and creamy solar fragrance. Bright, cool Bergamot opens into a blend of Rice Milk, Tiare Water and Evening Jasmine, grounded by a warm, musky base of Ambrox that wears close to skin—so it smells a little different on everyone! Available sizes: 8 mL, 50 mL Scent Notes Soie shares the same warm, musky base note as Glossier You—so it smells a little bit different on everyone. Top: Bergamot Heart: Rice Milk, Tiare Water, Evening Jasmine Base: Ambrox Cruelty Free, Vegan",
+      "keyIngredients": [],
+      "price": "CA$111.00",
+      "url": "https://www.glossier.com/en-ca/products/glossier-you-soie",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/new-glossier-fragrance-you-soie-carousel-01.jpg?width=160"
+    },
+    {
+      "name": "Balm + Line Duo",
+      "handle": "balm-line-duo",
+      "type": "Makeup",
+      "shortDescription": "Glossier Glossier Sets Glossier Makeup Glossier Black Cherry Glossier Cherry Balm Dotcom Balm Dotcom Cherry Lip Balm Burgundy Makeup Burgundy Lip Liner Lip Liner",
+      "description": "Glossier Glossier Sets Glossier Makeup Glossier Black Cherry Glossier Cherry Balm Dotcom Balm Dotcom Cherry Lip Balm Burgundy Makeup Burgundy Lip Liner Lip Liner",
+      "keyIngredients": [],
+      "price": "CA$39.00",
+      "url": "https://www.glossier.com/en-ca/products/balm-line-duo",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/lipline-bdc-carousel-01.png?width=160"
+    },
+    {
+      "name": "Hand Cream",
+      "handle": "hand-cream",
+      "type": "Body",
+      "shortDescription": "Always have hydration on hand. A supercharged cream that helps you keep moisture on hand.",
+      "description": "Always have hydration on hand. A supercharged cream that helps you keep moisture on hand. The palm-sized pod with a 360º easy-to-squeeze curve and click-to-close cap makes moisturizing on the go quick and convenient, while securing against spills. The fast-absorbing formula nourishes dry skin without ever getting greasy and uses a “second skin” matrix to lock in moisture. Key ingredients: Glycofilm Pollustop and Meadowfoam Seed Oil lock in moisture, while an antioxidant-rich botanical blend soothes and softens hard-at-work (or play) hands. Glycofilm Pollustop: Key ingredient that helps form a physical film (or matrix) to lock the moisture in. Botanical Blend : Antioxidant-rich extracts of Rosemary Leaf, Echinacea, Sunflower, and Rice Bran soothe and soften dry skin. Fermented Coconut Fruit Extract : Optimized with nutrients for thirsty skin, fermented for better absorption. Meadowfoam Seed Oil : Rich in fatty acids to help lock in moisture. Product details: Dermatologist-tested, cruelty-free, good for all skin types.",
+      "keyIngredients": [
+        "meadowfoam"
+      ],
+      "price": "CA$27.00",
+      "url": "https://www.glossier.com/en-ca/products/hand-cream",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-holiday-handcream-carousel-01.png?width=160"
+    },
+    {
+      "name": "Cloud Paint Cheek Brush",
+      "handle": "cloud-paint-cheek-brush",
+      "type": "Makeup",
+      "shortDescription": "A dual-ended brush for powder and liquid blushes. A dual-ended, portable and retractable synthetic brush designed for our powder and gel-cream blushes.",
+      "description": "A dual-ended brush for powder and liquid blushes. A dual-ended, portable and retractable synthetic brush designed for our powder and gel-cream blushes. The tapered brush end is perfect for blending Cloud Paint Plush Blush. While the opposite end mimics fingertips with a soft and non-absorbent silicone tip, making it perfect for patting on Cloud Paint! Made with undyed synthetic fibers, cruelty-free, vegan.",
+      "keyIngredients": [],
+      "price": "CA$34.00",
+      "url": "https://www.glossier.com/en-ca/products/cloud-paint-cheek-brush",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-cloudpaint-brush-carousel-1.png?width=160"
+    },
+    {
+      "name": "Cloud Paint Plush Blush",
+      "handle": "cloud-paint-plush-blush",
+      "type": "Makeup",
+      "shortDescription": "Put your head in the clouds. A pillowy-soft powder blush that blends and builds seamlessly for a soft-matte flush. Available in a wide range of colors inspired by New York City sunsets.",
+      "description": "Put your head in the clouds. A pillowy-soft powder blush that blends and builds seamlessly for a soft-matte flush. Available in a wide range of colors inspired by New York City sunsets. Key ingredients : This weightless powder formula helps absorb excess shine, keeping skin looking fresh all day! Memory Cloud Texture : A one-of-a-kind technology creates that addictively touchable texture that molds with every touch (like clay!) and then transforms into a weightless powder on the skin. Clover Flower Extract : An antioxidant-rich plant extract is like a real life filter, creating a soft-focus, blurred effect on skin. Powdered Ceramides & Botanical Glycerides : Skin-mimicking lipids transform into powder to help lock in moisture and keep the soft-matte finish feeling comfortable all day on skin. Product details: Up to 8hr Wear Water-Resistant Sweat-Resistant Humidity-Resistant Transfer-Resistant Cruelty-free, vegan, dermatologist-tested, suitable for sensitive skin, non-comedogenic, suitable for all skin types (including sensitive skin).",
+      "keyIngredients": [
+        "ceramides",
+        "ceramide"
+      ],
+      "price": "CA$36.00",
+      "url": "https://www.glossier.com/en-ca/products/cloud-paint-plush-blush",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-cppb-puff-carousel-01.png?width=160"
+    },
+    {
+      "name": "Cloud Paint Duo",
+      "handle": "cloud-paint-duo",
+      "type": "Makeup",
+      "shortDescription": "cloud paint, eve, spark, makeup, blush, gift, holiday, sets, face, cheeks, storm, dawn, puff, dusk, haze, beam, black friday, cyber monday",
+      "description": "cloud paint, eve, spark, makeup, blush, gift, holiday, sets, face, cheeks, storm, dawn, puff, dusk, haze, beam, black friday, cyber monday",
+      "keyIngredients": [],
+      "price": "CA$53.00",
+      "url": "https://www.glossier.com/en-ca/products/cloud-paint-duo",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-cp-duo-carousel-1.png?width=160"
+    },
+    {
+      "name": "Skylight",
+      "handle": "skylight",
+      "type": "Makeup",
+      "shortDescription": "Liquid highlighter Step into your best light. A skin-loving liquid highlighter for pearlescent radiance.",
+      "description": "Liquid highlighter Step into your best light. A skin-loving liquid highlighter for pearlescent radiance. Infused with Complexion-Inspired Micro Pearls, this buildable formula delivers long-lasting radiance that is non-sticky, non-tacky and never streaky. Product details: Cruelty-free, vegan, dermatologist-tested, suitable for sen Key ingredients: Gellified Serum Base Complexion-Inspired Micro Pearls Hyaluronic Acid + Copolymers",
+      "keyIngredients": [
+        "hyaluronic acid"
+      ],
+      "price": "CA$33.00",
+      "url": "https://www.glossier.com/en-ca/products/skylight",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-skylight-lunar-carousel-01.png?width=160"
+    },
+    {
+      "name": "Balm Dotcom",
+      "handle": "balm-dotcom",
+      "type": "Balms",
+      "shortDescription": "Instant nourishment with addictive taste. Our cult-favorite, do-everything lip balm. Swipe on for hydration you can feel and taste with a formula rich in antioxidants and natural emollients to nourish dryness.",
+      "description": "Instant nourishment with addictive taste. Our cult-favorite, do-everything lip balm. Swipe on for hydration you can feel and taste with a formula rich in antioxidants and natural emollients to nourish dryness. Key Ingredients: A hydrating lip balm packed with antioxidants + natural emollients to nourish dry, chafed skin. Castor Seed Oil Beeswax Lanolin Phyto-Antioxidant Blend Product Details: Moisturizing Nourishing Cruelty-free",
+      "keyIngredients": [
+        "beeswax",
+        "lanolin",
+        "castor seed oil"
+      ],
+      "price": "CA$22.00",
+      "url": "https://www.glossier.com/en-ca/products/balm-dotcom",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-bdc-wildfig-carousel-1.png?width=160"
+    },
+    {
+      "name": "The Cheek Kit",
+      "handle": "the-cheek-kit",
+      "type": "Makeup",
+      "shortDescription": "Futuredew, Cloud Paint, face oil, serum, blush, cheeks, cheek color, gel cream, glow, dewy",
+      "description": "Futuredew, Cloud Paint, face oil, serum, blush, cheeks, cheek color, gel cream, glow, dewy",
+      "keyIngredients": [],
+      "price": "CA$59.00",
+      "url": "https://www.glossier.com/en-ca/products/the-cheek-kit",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-cp-futuredew-carousel-01_1f273112-06ad-4921-993c-9708b319d9da.png?width=160"
+    },
+    {
+      "name": "Full Body Routine",
+      "handle": "full-body-routine",
+      "type": "Body",
+      "shortDescription": "Glossier Sets Glossier Bundles Glossier Body Sets Glossier Body Care Glossier Body Care Sets Glossier Orange Blossom Neroli Glossier Sandstone Glossier Body Hero Best Body Care Sets Best Shower Sets Best Gift Sets Best M",
+      "description": "Glossier Sets Glossier Bundles Glossier Body Sets Glossier Body Care Glossier Body Care Sets Glossier Orange Blossom Neroli Glossier Sandstone Glossier Body Hero Best Body Care Sets Best Shower Sets Best Gift Sets Best Mother’s Day Gift Sets Best Gift Sets for Her Best Body Spritzes Best Body Mists Best Body Washes Best Body Lotions Best Body Moisturizers Everything Shower Routine Everything Shower How to Smell Good All The Time Elongate Perfume Lengthen Perfume Scent",
+      "keyIngredients": [],
+      "price": "CA$99.00",
+      "url": "https://www.glossier.com/en-ca/products/full-body-routine",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-0622-full-body-routine-carousel-01.png?width=160"
+    },
+    {
+      "name": "Daily Perfecting Lotion",
+      "handle": "body-hero-daily-perfecting-lotion",
+      "type": "Body",
+      "shortDescription": "A skincare-grade body lotion. A body lotion that does more than just moisturize. Now available in two iconic scents, this daily essential deeply nourishes skin while providing a subtle, healthy-looking glow.",
+      "description": "A skincare-grade body lotion. A body lotion that does more than just moisturize. Now available in two iconic scents, this daily essential deeply nourishes skin while providing a subtle, healthy-looking glow. No pesky residue or dry-down time. Just a silky, lightweight lotion in a click-lock pump bottle for convenience and ease of use. Product Details: Enhancing Nourishing Smoothing Hydrating Key Ingredients: Glycerin Avocado Oil Apple Fruit Extract Light Reflecting Pearl",
+      "keyIngredients": [
+        "glycerin",
+        "avocado oil"
+      ],
+      "price": "CA$38.00",
+      "url": "https://www.glossier.com/en-ca/products/body-hero-daily-perfecting-lotion",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-bodyhero-perfectinglotion-carousel-01.png?width=160"
+    },
+    {
+      "name": "Body Spritz",
+      "handle": "body-spritz",
+      "type": "Fragrance",
+      "shortDescription": "Escape with a spritz. A playful, sheer fragranced hair and body mist designed to be experimented with, layered, and spritzed throughout the day as a quick scent escape and refresh. Available in three iconic scents.",
+      "description": "Escape with a spritz. A playful, sheer fragranced hair and body mist designed to be experimented with, layered, and spritzed throughout the day as a quick scent escape and refresh. Available in three iconic scents. Scent Notes: Orange Blossom Neroli is vibrant + invigorating Top: Bergamot, Pear Water Heart: Orange Flower, Neroli Buds Base: Fresh Cypress, Soft Musks Sandstone is grounding + aromatic Top: Fig Leaf, Lavandin Heart: Clary Sage, Geranium Base: Sandalwood, Coconut Milk Product details : 100ml fill size, Vegan",
+      "keyIngredients": [],
+      "price": "CA$48.00",
+      "url": "https://www.glossier.com/en-ca/products/body-spritz",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-body-spritz-obn-carousel-01.png?width=160"
+    },
+    {
+      "name": "Daily Oil Wash",
+      "handle": "body-hero-daily-oil-wash",
+      "type": "Body",
+      "shortDescription": "Body wash goes luxe. A gentle body cleanser that provides a deeply nourishing wash, free from soap and sulfates.",
+      "description": "Body wash goes luxe. A gentle body cleanser that provides a deeply nourishing wash, free from soap and sulfates. Its unique oil formula transforms into a milky lather when mixed with warm water, leaving the skin feeling soft and hydrated. Now available in two iconic scents. Product Details: Cleansing Nourishing Smoothing Refreshing Key Ingredients: Ingredients that gently cleanse skin, leaving it nourished and comfortable. A Blend of Natural Oils Glycerin Vitamin E",
+      "keyIngredients": [
+        "glycerin",
+        "vitamin e"
+      ],
+      "price": "CA$38.00",
+      "url": "https://www.glossier.com/en-ca/products/body-hero-daily-oil-wash",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-bodyhero-oilwash-carousel-01.png?width=160"
+    },
+    {
+      "name": "Perfecting Skin Tint",
+      "handle": "perfecting-skin-tint",
+      "type": "Makeup",
+      "shortDescription": "More skin, less makeup. An undetectable wash of color that evens out skin’s appearance but won’t hide your freckles, cake your pores, or cover you up.",
+      "description": "More skin, less makeup. An undetectable wash of color that evens out skin’s appearance but won’t hide your freckles, cake your pores, or cover you up. The ultra-thin, breathable formula leaves you with a smooth, dewy finish that lets your skin shine through. Diamond Powder gives a brightening, soft-focus effect and minimizes the appearance of pores, while Glycerin acts as a moisture lock to attract hydration. Comes in 12 super sheer shades. Key ingredients: Diamond Powder helps visibly brighten and blur your skin, while glycerin (a water magnet) draws in moisture. Diamond Powder : Gives a bright, blurred effect, while minimizing the appearance of pores. Glycerin : Helps skin attract and retain moisture Product details: Dermatologist-tested, ophthalmologist-tested, formulated without fragrance, non-comedogenic Refining Breathable Enhancing Vegan Cruelty-free",
+      "keyIngredients": [
+        "glycerin"
+      ],
+      "price": "CA$41.00",
+      "url": "https://www.glossier.com/en-ca/products/perfecting-skin-tint",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-makeup-pst-g1-carousel-01.png?width=160"
+    },
+    {
+      "name": "Lash Slick",
+      "handle": "lash-slick",
+      "type": "Makeup",
+      "shortDescription": "Extensions without the extensions. Our best-selling mascara visibly lengthens and lifts lashes for a baby extensions effect. More: ‘Your lashes look good’ than ‘your mascara looks good’.",
+      "description": "Extensions without the extensions. Our best-selling mascara visibly lengthens and lifts lashes for a baby extensions effect. More: ‘Your lashes look good’ than ‘your mascara looks good’. The weightless, flexible formula will give you natural-looking lift and length with teeny-tiny fibers that coat each individual lash from root to tip for maximum definition. Come for better-looking lashes, stay for the long-wearing, water-resistant (not waterproof) formula that stays in place for up to 12 hours—without smudging or flaking*. *Tested on Lash Slick in Black only. Key ingredients : Provitamin B5 and Biotinyl Tripeptide-1 create sleek, shiny, cared-for lashes, making it the perfect go-to mascara. Japanese Fiber Technology : One and two millimeter-long curved fibers cling onto each individual lash, adding length without weighing down your lashes. Consider these your “extensions.” Vegan Biotin : Conditions for softer feeling lashes over time. Natural Shine Polymers : Enhances the formula’s black pigments so lashes are extra shiny and sleek. Tapered Comb Brush : The tiered bristles and precise tip separate top and bottom lashes at the root, ensuring even application. Product details : Smud",
+      "keyIngredients": [
+        "peptide"
+      ],
+      "price": "CA$27.00",
+      "url": "https://www.glossier.com/en-ca/products/lash-slick",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-makeup-lashslick-black-01.png?width=160"
+    },
+    {
+      "name": "No. 1 Pencil",
+      "handle": "no-1-pencil",
+      "type": "Makeup",
+      "shortDescription": "Color outside the lines. A creamy, long-wearing eyeliner pencil that glides on smoothly with rich, buildable, blendable color, supplying endless options for creative expression.",
+      "description": "Color outside the lines. A creamy, long-wearing eyeliner pencil that glides on smoothly with rich, buildable, blendable color, supplying endless options for creative expression. Go bold or get subtle with demi-matte, dense pigments for crisp, true color that won’t rub, tug or transfer. This soft (but never too soft!) formula goes on in seconds and easily creates a sharp, defined line, with just enough dry-down time to b lend it out for a diffused, smokey look—if that’s what you’re after. Inspired by the archives of art history, and calling for your own creativity, No. 1 Pencil’s 10 shades include a mix of bold and classic colors. Once the formula sets, it’s water-resistant, transfer-resistant and lasts up to 12 hours — so you can spend more time doing you, and less time doing touch ups. Key ingredients : Water and transfer-resistant (once set), No. 1 pencil is formulated to last up to 12 hours without touch-ups. Product details: Buildable Longwearing Cruelty free Vegan Dermatologist-tested, ophthalmologist-tested, water-resistant, suitable for contact lens wearers, suitable to wear on the water line, suitable for sensitive eyes",
+      "keyIngredients": [],
+      "price": "CA$27.00",
+      "url": "https://www.glossier.com/en-ca/products/no-1-pencil",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-no1-pencil-rococo-01.png?width=160"
+    },
+    {
+      "name": "Deodorant",
+      "handle": "deodorant",
+      "type": "Body",
+      "shortDescription": "Pop in, swipe on. 2024 Allure Best of Beauty Award-Winner. A recyclable refill for your Deodorant case. Re-up on your signature scent or pop in a new one.",
+      "description": "Pop in, swipe on. 2024 Allure Best of Beauty Award-Winner. A recyclable refill for your Deodorant case. Re-up on your signature scent or pop in a new one. Formulated without aluminum, baking soda, exfoliating acids or water—aka things that can cause bad odor, disrupt the skin’s pH level and cause irritation—our Deodorant keeps it gentle (but mighty!) with ingredients that work for every underarm. Available in three signature scents (Sandstone, Glossier You and Orange Blossom Neroli) plus Unscented, these refill sticks will outdo any odor. Key ingredients : Superfruit Elderberry Extract and Coconut Oil : Keep underarm skin nourished and conditioned, helping to reduce odors. Potato Starch : A naturally-derived ingredient that absorbs moisture, helping your pits feel drier. Magnesium Hydroxide : A pH-adjuster and absorbent that helps to reduce those dreaded sweat stains, letting your clothes stay fresher and longer Product details : Dermatologist-tested Conditioning Vegan Cruelty-free",
+      "keyIngredients": [],
+      "price": "CA$33.00",
+      "url": "https://www.glossier.com/en-ca/products/deodorant",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/products/glossier-deo-you-carousel-01.png?width=160"
+    },
+    {
+      "name": "Deodorant Refillable Case",
+      "handle": "deodorant-refillable-case",
+      "type": "Body",
+      "shortDescription": "Pop in, swipe on. A case for your refillable Deodorant. Re-up on your signature scent or pop a new one into this refillable case.",
+      "description": "Pop in, swipe on. A case for your refillable Deodorant. Re-up on your signature scent or pop a new one into this refillable case. Available in three signature scents (Sandstone, Glossier You and Orange Blossom Neroli) plus Unscented, our refillable deodorant will outdo any odor. Product Details: Conditioning Cruelty free Vegan",
+      "keyIngredients": [],
+      "price": "CA$7.00",
+      "url": "https://www.glossier.com/en-ca/products/deodorant-refillable-case",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/products/glossier-deo-refill-case-carousel-01-update.png?width=160"
+    },
+    {
+      "name": "Stretch Fluid Foundation",
+      "handle": "stretch-fluid-foundation",
+      "type": "Makeup",
+      "shortDescription": "Made for real life. An 89% skincare-based, gel-cream foundation that leaves skin looking moisturized with a natural-to-you finish.",
+      "description": "Made for real life. An 89% skincare-based, gel-cream foundation that leaves skin looking moisturized with a natural-to-you finish. Formulated to fuse with skin (never cake on-top), to blend seamlessly and wear up to 12 hours. Key ingredients: Guaranteed to look as good outside as it does in your bathroom mirror. Squalane + Glycerin : Help support the moisture barrier + nourish skin Wild Rose Berry + Plankton Extract : Balance the look excess shine + help maintain hydration, making it suitable for all skin types Amino Acid Coated Pigments : Fuse with skin for all-day flexible coverage Clinical studies: The Stretch Foundation consumer study was conducted by a third-party testing facility and included 50 people between the ages of 18 and 60. They used the product in plain packaging for two weeks and completed a questionnaire based on their experience. 100% said formula is lightweight + feels like skincare 98% said formula feels flexible, looks like skin + allows skin to breathe 98% agreed skin looks hydrated after 12 hours Product details: Crease-resistant Transfer-resistant Sweat-resistant Cruelty-free Vegan Dermatologist-tested, formulated without fragrance, non-comedogenic.",
+      "keyIngredients": [
+        "glycerin",
+        "squalane"
+      ],
+      "price": "CA$46.00",
+      "url": "https://www.glossier.com/en-ca/products/stretch-fluid-foundation",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-stretch-foundation-very-deep-4-carousel-01.png?width=160"
+    },
+    {
+      "name": "Stretch Balm Concealer",
+      "handle": "stretch-balm-concealer",
+      "type": "Makeup",
+      "shortDescription": "Flexes to fit your needs . The same concealer you know and love, now available in 32 foundation-matching shades.",
+      "description": "Flexes to fit your needs . The same concealer you know and love, now available in 32 foundation-matching shades. Buildable coverage formulated to camouflage skin realities like dark circles, blemishes, and redness—but always look like skin with a dewy glowy finish. Key ingredients : Skin-first ingredients fit for all skin types. Adaptable Mineral Pigments : Merge seamlessly with skin for undetectable coverage Elastic Micro Waxes : Move with your expressions—no stiffening or caking Avocado Oil + Jojoba Oil : Support the skin’s moisture barrier Product details : Dermatologist-tested, ophthalmologist-tested, formulated without fragrance, non-comedogenic.",
+      "keyIngredients": [
+        "jojoba",
+        "avocado oil"
+      ],
+      "price": "CA$30.00",
+      "url": "https://www.glossier.com/en-ca/products/stretch-balm-concealer",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-stretch-concealer-very-deep-4-carousel-01.png?width=160"
+    },
+    {
+      "name": "Crème de You",
+      "handle": "creme-de-you",
+      "type": "Fragrance",
+      "shortDescription": "A touch of you. Our iconic Glossier You fragrance, now in a fast absorbing, luxurious body crème with a soft, silky, delicately scented finish. Key ingredients : Delight your senses and hydrate skin for up to 24 hours.",
+      "description": "A touch of you. Our iconic Glossier You fragrance, now in a fast absorbing, luxurious body crème with a soft, silky, delicately scented finish. Key ingredients : Delight your senses and hydrate skin for up to 24 hours. Shea Butter : readily melts and absorbs into skin to help smooth, soften + condition without feeling greasy. Jojoba Oil : highly compatible with skin’s natural chemistry and is easily absorbed into skin to provide a silky-smooth feel. Glossier You : the iconic Glossier You Eau de Parfum fragrance, with a sparkling top note of Pink Pepper, earthy Iris heart, and warm creamy base notes of Ambrette + Ambrox. Product details : Dermatologist-tested, vegan, cruelty-free. Nourishing Hydrating Scented",
+      "keyIngredients": [
+        "shea butter",
+        "jojoba"
+      ],
+      "price": "CA$61.00",
+      "url": "https://www.glossier.com/en-ca/products/creme-de-you",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-cremedeyou-01.png?width=160"
+    },
+    {
+      "name": "Glossier Candles",
+      "handle": "glossier-candle",
+      "type": "Fragrance",
+      "shortDescription": "Signature scents for your space. Light up and wind down with some of our signature Glossier scents. Made with a vegan, non-paraffin wax blend of soy and coconut, our candles have a burn time of up to 45 hours.",
+      "description": "Signature scents for your space. Light up and wind down with some of our signature Glossier scents. Made with a vegan, non-paraffin wax blend of soy and coconut, our candles have a burn time of up to 45 hours. The best part? Once it’s burnt through, you can reuse the glass vessel to store makeup, pencils or whatever your heart desires! These consciously-crafted candles are made with a vegan, non-paraffin blend of soy and coconut, with a burn time of up to 45 hours. Scents available: Glossier you. : Pink Pepper, Iris, Ambrette Seeds, and Ambrox Orange Blossom Neroli : Pear, Mandarin, and Cypress Sandstone : Sandalwood, Clary Sage, and Fig Leaf. Lilyhaze (limited edition): Glazed Apricot, Vanilla Absolute and Sheer Amber Product details: Net Weight 8oz, Poids Net Weight 1.2g. Cruelty-free Vegan",
+      "keyIngredients": [],
+      "price": "CA$61.00",
+      "url": "https://www.glossier.com/en-ca/products/glossier-candle",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-candle-you-carousel-01_8f3ee16e-d330-44ca-9fe3-05c002c16c6b.png?width=160"
+    },
+    {
+      "name": "Cloud Paint",
+      "handle": "cloud-paint",
+      "type": "Makeup",
+      "shortDescription": "The most user-friendly blush + bronzer under the sun. A collection of seamless cheek colors in both blush and bronzer shades inspired by golden hour sunsets, so natural it’s like your skin made it.",
+      "description": "The most user-friendly blush + bronzer under the sun. A collection of seamless cheek colors in both blush and bronzer shades inspired by golden hour sunsets, so natural it’s like your skin made it. Easy to wear and apply, each shade is sheer enough to blend and layer without going overboard. Key ingredients : Collagen and Blurring Powder Pigments add a soft-focus effect that won’t accentuate texture or pores. You’ll just have a golden-hour glow…all the time. Collagen : Retains a high amount of water (it’s known to be a really effective hydrator!) and leaves cheeks feeling fresh and dewy. Smooth-Gel Texture : One-of-a-kind, lightweight gel-cream texture makes for silky, even application. Blurring Powder Pigments: Provide a soft, diffused, seamless finish that doesn’t accentuate pores or texture. Product details : Dermatologist-tested, formulated without fragrance Buildable Cruelty-free",
+      "keyIngredients": [
+        "collagen"
+      ],
+      "price": "CA$33.00",
+      "url": "https://www.glossier.com/en-ca/products/cloud-paint",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-cloud-paint-beam-carousel-01.png?width=160"
+    },
+    {
+      "name": "Lip Glaze",
+      "handle": "lip-glaze",
+      "type": "Makeup",
+      "shortDescription": "The next-generation lip oil. A refreshing everyday essential for a sheer-glaze of color and lightweight, non-sticky shine.",
+      "description": "The next-generation lip oil. A refreshing everyday essential for a sheer-glaze of color and lightweight, non-sticky shine. Its nourishing formula melts instantly on the lips, delivering long-lasting care and up to 12-hour hydration for smoother-looking lips. Wear it on its own or layered with your favorite lip products. Key ingredients : A refreshing scoop of gelato for your lips. Melting Oil Base : formulated with a rich blend of nine botanical oils, it delivers a deliciously smooth and soft texture. Apricot + Raspberry Seed Oils : a nourishing oil blend that leaves lips looking smooth and plump with hydration. Liquid Shea Butter : creates a smooth, lightweight-yet-highly-conditioning feel for softer and cared-for lips. Chilled Glaze : a menthol-derived cooling agent that leaves a comfortable, minty-fresh feel on lips. Clinical studies: An addictively refreshing glaze that leaves lips smooth and conditioned, and hydrates for up to 12 hours. In an independent study of 34 people: 100% agree lips look + feel smooth 100% agree lips look healthy 97% agree lips look + feel nourished 97% agree product feels refreshing on lips 94% agree lips look plump with moisture Product details: Nouri",
+      "keyIngredients": [
+        "shea butter"
+      ],
+      "price": "CA$30.00",
+      "url": "https://www.glossier.com/en-ca/products/lip-glaze",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-lipglaze-chilly-carousel-01.png?width=160"
+    },
+    {
+      "name": "Boy Brow Arch",
+      "handle": "boy-brow-arch",
+      "type": "Makeup",
+      "shortDescription": "The pencil that knows your angles. Shape and define brows with a 2-in-1 custom tip shape offering a precision edge for hair-like flicks and flat edge to fill sparse areas.",
+      "description": "The pencil that knows your angles. Shape and define brows with a 2-in-1 custom tip shape offering a precision edge for hair-like flicks and flat edge to fill sparse areas. Key ingredients : The benefits of a traditional poured pomade –soft creamy texture, impactful color (without pulling or tugging!) and all day wear – in the ease and precision of a mechanical pencil. Coconut moisturizer : Ensures a smooth glide and nourishes your brows giving them a soft, smooth appearance. Botanical Clay Complex : Keeps pigments in place for comfortable, all day wear. Product details: Vegan, cruelty-free, dermatologist tested, suitable for all skin types including sensitive, ophthalmologist tested, suitable for sensitive eyes and contact lens wearers Water-resistant Smudge-resistant Transfer-resistant Sweat-resistant Humidity-resistant Longwearing for up to 12 hours",
+      "keyIngredients": [],
+      "price": "CA$33.00",
+      "url": "https://www.glossier.com/en-ca/products/boy-brow-arch",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-bba-auburn-carousel-01.png?width=160"
+    },
+    {
+      "name": "Boy Brow",
+      "handle": "boy-brow",
+      "type": "Makeup",
+      "shortDescription": "The original, every-day essential for all brows. Inspired by the flexible formula of mustache pomade, Boy Brow visibly defines, thickens and shapes for face-framing brows in seconds.",
+      "description": "The original, every-day essential for all brows. Inspired by the flexible formula of mustache pomade, Boy Brow visibly defines, thickens and shapes for face-framing brows in seconds. A creamy, conditioning formula and a precision brush coats even the smallest and finest hairs for a soft, flexible hold that won’t stiffen or flake. Available in a range of subtly-tinted shades that seamlessly blend in with your natural hairs plus Clear (that won’t leave a trace). Key ingredients : Ingredients that nourish and groom brows from root to tip. Beeswax and Carnauba Wax : Natural waxes that hold hairs in place without stiffness. Oleic Acid: An emollient found in olive oil that nourishes and moisturizes. Lecithin : Adds a silky, smooth texture and a subtle sheen. Hyaluronic Acid : A humectant which adds hydration and improves softness and flexibility to brow hairs. Product details: Dermatologist-tested, ophthalmologist-tested, suitable for contact lens wearers, good for all skin types Thickening Conditioning Flexible Cruelty Free",
+      "keyIngredients": [
+        "hyaluronic acid",
+        "beeswax"
+      ],
+      "price": "CA$30.00",
+      "url": "https://www.glossier.com/en-ca/products/boy-brow",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-0917-boy-brow-black-carousel-1.png?width=160"
+    },
+    {
+      "name": "Glossier You Fleur",
+      "handle": "glossier-you-fleur",
+      "type": "Fragrance",
+      "shortDescription": "The wonder of you. An airy and luminous floral blend that opens with a textured Mineral Salt Accord, followed by a heart of Osmanthus, Ylang Ylang, Apricot Skin and Cashmeran.",
+      "description": "The wonder of you. An airy and luminous floral blend that opens with a textured Mineral Salt Accord, followed by a heart of Osmanthus, Ylang Ylang, Apricot Skin and Cashmeran. Complete with a warm, musky base driven by Ambrox. Fleur is a skin-scent enhancer that wears close to the skin and true to you, never overpowering your unique scent—because you are the final ingredient. Available sizes: 8 mL, 50 mL Scent Notes Fleur shares the same warm, musky base note as Glossier You — so it smells a little bit different on everyone. Top: Mineral Salt Accord Heart: Osmanthus, Ylang Ylang, Apricot Skin, Cashmeran Base: Ambrox Cruelty Free, Vegan",
+      "keyIngredients": [],
+      "price": "CA$111.00",
+      "url": "https://www.glossier.com/en-ca/products/glossier-you-fleur",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-fleur-50ml-carousel-01.png?width=160"
+    },
+    {
+      "name": "Milky Jelly Cleansing Balm",
+      "handle": "milky-jelly-cleansing-balm",
+      "type": "Skincare",
+      "shortDescription": "Transform your cleansing routine. A nourishing and transformative gel‑balm cleanser that gently dissolves makeup, SPF and impurities.",
+      "description": "Transform your cleansing routine. A nourishing and transformative gel‑balm cleanser that gently dissolves makeup, SPF and impurities. Massage onto dry skin, add water to emulsify and rinse or gently wipe away with a clean, damp cloth for a soft and hydrated canvas. Key Ingredients : Botanical Oil Blend Glycerin Sugar‑based Surfactants",
+      "keyIngredients": [
+        "glycerin"
+      ],
+      "price": "CA$32.00",
+      "url": "https://www.glossier.com/en-ca/products/milky-jelly-cleansing-balm",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-mjc-balm-carousel-01.png?width=160"
+    },
+    {
+      "name": "The Lip Kit",
+      "handle": "lip-kit",
+      "type": "Makeup",
+      "shortDescription": "Glossier Glossier Lip Liner Glossier Lip Line Lip Line Ultralip Lip Liner Natural Lip Liner Natural Lip Products Nude Lips Glossier Lipstick Lipstick",
+      "description": "Glossier Glossier Lip Liner Glossier Lip Line Lip Line Ultralip Lip Liner Natural Lip Liner Natural Lip Products Nude Lips Glossier Lipstick Lipstick",
+      "keyIngredients": [],
+      "price": "CA$46.00",
+      "url": "https://www.glossier.com/en-ca/products/lip-kit",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-ultralip-lipline-carousel-01.png?width=160"
+    },
+    {
+      "name": "Ultralip Duo",
+      "handle": "ultralip-duo",
+      "type": "Makeup",
+      "shortDescription": "Ultralip Glossier Lipstick Lip tint Lip balm Lip gloss Tinted lip balm",
+      "description": "Ultralip Glossier Lipstick Lip tint Lip balm Lip gloss Tinted lip balm",
+      "keyIngredients": [],
+      "price": "CA$54.00",
+      "url": "https://www.glossier.com/en-ca/products/ultralip-duo",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-ultralip-duo-carousel-01.png?width=160"
+    },
+    {
+      "name": "Lash Slick Duo",
+      "handle": "lash-slick-duo",
+      "type": "Makeup",
+      "shortDescription": "eye makeup mascara lashes Lash Slick lengthening mascara smudge proof mascara natural looking mascara black mascara Lash extensions False lashes Fake lashes",
+      "description": "eye makeup mascara lashes Lash Slick lengthening mascara smudge proof mascara natural looking mascara black mascara Lash extensions False lashes Fake lashes",
+      "keyIngredients": [],
+      "price": "CA$49.00",
+      "url": "https://www.glossier.com/en-ca/products/lash-slick-duo",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-lash-slick-duo_1.png?width=160"
+    },
+    {
+      "name": "Futuredew Solid",
+      "handle": "futuredew-solid",
+      "type": "Skincare",
+      "shortDescription": "Skin leads, glow follows . Introducing an illuminating duo like no other: Futuredew in two versatile formats. Use the oil-serum hybrid for a glowing base, and a travel-friendly solid stick for easy, targeted highlights.",
+      "description": "Skin leads, glow follows . Introducing an illuminating duo like no other: Futuredew in two versatile formats. Use the oil-serum hybrid for a glowing base, and a travel-friendly solid stick for easy, targeted highlights. Key ingredients : Skin conditioning heavy hitters immediately nourish + enhance your skin’s natural radiance. Concentrated Plant-Based Oils : Instantly melt into skin and lock in moisture for nourishing hydration. Sea Fennel Extract & Vitamin E Acetate : Help actively boost skin’s glow over time while neutralizing free radicals Light Reflecting Minerals: Help instantly boost skin’s radiance for a glow that lasts all day. Product details : Dermatologist tested, good for all skin types. Nourishing Enhancing Long-wearing Cruelty-free Non-comedogenic Vegan",
+      "keyIngredients": [
+        "vitamin e"
+      ],
+      "price": "CA$35.00",
+      "url": "https://www.glossier.com/en-ca/products/futuredew-solid",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-futuredew-solid-carousel-01.png?width=160"
+    },
+    {
+      "name": "Ultralip",
+      "handle": "ultralip",
+      "type": "Makeup",
+      "shortDescription": "The (cashmere) sweatpants of lipstick . Cocoon your lips with this luxe, one-step lipstick.",
+      "description": "The (cashmere) sweatpants of lipstick . Cocoon your lips with this luxe, one-step lipstick. Formulated with the rich moisture of a balm, the sheen of a gloss and the buildable color of a lip tint, this staple is bound to be your new obsession. Key ingredients: A nourishing triple-oil blend—Meadowfoam, Jojoba, and Watermelon—locks in moisture so lips feel pillowy soft and quenched. Meadowfoam Seed Oil : A botanical oil (an excellent source of fatty acids and antioxidants) that helps soften lips, locks in moisture, and provides a smooth glide that feels pillowy and nourishing. Watermelon Seed Oil : A nutritional powerhouse packed with vitamins and fatty acids for conditioning and care. Jojoba Seed Oil : A highly emollient, gloss-enhancing oil that forms an occlusive conditioning layer for a smoothing and softening effect. 4HA : This unique blend of four different molecular weights of Hyaluronic Acid is known to provide hydration benefits by drawing in moisture. Product details : Dermatologist-tested, vegan, cruelty-free,formulat Buildable Conditioning Enhancing",
+      "keyIngredients": [
+        "hyaluronic acid",
+        "jojoba",
+        "meadowfoam"
+      ],
+      "price": "CA$30.00",
+      "url": "https://www.glossier.com/en-ca/products/ultralip",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-makeup-ultralip-catchet-carousel-01.png?width=160"
+    },
+    {
+      "name": "Lip Line",
+      "handle": "lip-line",
+      "type": "Makeup",
+      "shortDescription": "A true-to-lip pencil with creamy, lasting coverage. A creamy, medium-coverage lip pencil that enhances your natural shape and tone. Available in an array of true-to-lip, nipple-matched shades.",
+      "description": "A true-to-lip pencil with creamy, lasting coverage. A creamy, medium-coverage lip pencil that enhances your natural shape and tone. Available in an array of true-to-lip, nipple-matched shades. Key ingredients : Water-resistant formula visibly enhances shape, tone and texture of lips while ensuring a luxuriously comfortable feel. Fractional Quartz : Ensures a luxurious and smooth application for a natural finish. Jojoba Oil : Helps keep lips soft, smooth, and moisturized. Lip Grip Complex : Helps keep the formula in place so sweat, smudges and life don’t get in the way. Product details: Dermatologist-Tested, suitable for sensitive skin Longwearing Smudge-Resistant Transfer-Resistant Water-Resistant",
+      "keyIngredients": [
+        "jojoba"
+      ],
+      "price": "CA$27.00",
+      "url": "https://www.glossier.com/en-ca/products/lip-line",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-carousel-lipline-hold-01.png?width=160"
+    },
+    {
+      "name": "Glossier You Rêve",
+      "handle": "glossier-you-reve",
+      "type": "Fragrance",
+      "shortDescription": "The rush of you.",
+      "description": "The rush of you. Glossier You Rêve is a lush, dreamy gourmand fragrance that opens with rich Buttercream, followed by an addictive center of Plum Butter, Toasted Almond, Iris and creamy white Sandalwood—heightened by a warm, musky base driven by Ambrox. Rêve is a skin-scent enhancer that wears close to the skin and true to you, never overpowering your unique scent—because you are the final ingredient. Available sizes: 8mL, 50mL Scent Notes Rêve shares the same warm, musky base notes as Glossier You — so it smells a little bit different on everyone. Buttercream: Milky, lush, vanillic Plum Butter: Fruity, velvety, dark Toasted Almond: Nutty, comforting, addictive Iris: Earthy, floral, woody Sandalwood: Woody, creamy Ambrox + Ambrette: Smooth, salty, animalic + comfy, warm, sweet Cruelty Free, Vegan",
+      "keyIngredients": [],
+      "price": "CA$111.00",
+      "url": "https://www.glossier.com/en-ca/products/glossier-you-reve",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-reve-launch-carousel-01.png?width=160"
+    },
+    {
+      "name": "Glossier You Doux",
+      "handle": "glossier-you-doux",
+      "type": "Fragrance",
+      "shortDescription": "Glossier You Doux is a soft and serene woody fragrance that opens with Sweet Violet, followed by a precious blend of woody Palo Santo, Frankincense and smoky Myrrh—heightened by a warm, musky base driven by Ambrox.",
+      "description": "Glossier You Doux is a soft and serene woody fragrance that opens with Sweet Violet, followed by a precious blend of woody Palo Santo, Frankincense and smoky Myrrh—heightened by a warm, musky base driven by Ambrox. Doux is a skin-scent enhancer that wears close to the skin and true to you, never overpowering your unique scent—because you are the final ingredient. TOP : Sweet Violet HEART : Palo Santo, Frankincense, Myrrh BASE: Ambrette, Ambrox",
+      "keyIngredients": [],
+      "price": "CA$157.00",
+      "url": "https://www.glossier.com/en-ca/products/glossier-you-doux",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-doux-launch-carousel-01.png?width=160"
+    },
+    {
+      "name": "Three Eyed Smiley Mug",
+      "handle": "three-eyed-smiley-mug",
+      "type": "Merch",
+      "shortDescription": "Sip on happiness. Enjoy a sip of instant joy with this stackable Glossier pink ceramic mug, featuring our logo and Three Eyed Smiley. Ideal for tea, coffee or storing your favorite makeup products!",
+      "description": "Sip on happiness. Enjoy a sip of instant joy with this stackable Glossier pink ceramic mug, featuring our logo and Three Eyed Smiley. Ideal for tea, coffee or storing your favorite makeup products! Care : Hand wash recommended. Materials : Ceramic material. Made in China.",
+      "keyIngredients": [],
+      "price": "CA$24.00",
+      "url": "https://www.glossier.com/en-ca/products/three-eyed-smiley-mug",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-mug-carousel-01.png?width=160"
+    },
+    {
+      "name": "Classic Cap",
+      "handle": "classic-cap",
+      "type": "Merch",
+      "shortDescription": "Top off your day. Say hello to our brand new caps! An everyday staple featuring a pre-curved visor and an embroidered design. Available in two variations. Materials : 100% Cotton. Made in China. Adjustable.",
+      "description": "Top off your day. Say hello to our brand new caps! An everyday staple featuring a pre-curved visor and an embroidered design. Available in two variations. Materials : 100% Cotton. Made in China. Adjustable.",
+      "keyIngredients": [],
+      "price": "CA$41.00",
+      "url": "https://www.glossier.com/en-ca/products/classic-cap",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-denimcap-carousel-01.png?width=160"
+    },
+    {
+      "name": "Generation G",
+      "handle": "generation-g",
+      "type": "Makeup",
+      "shortDescription": "Just-blotted lipstick, without the blot! A fragrance-free, buildable, sheer-matte lipstick with a perfectly diffused flush of color.",
+      "description": "Just-blotted lipstick, without the blot! A fragrance-free, buildable, sheer-matte lipstick with a perfectly diffused flush of color. Inspired by the makeup artist trick of blotting lipstick after application, one swipe glides on smooth and even (no mirror needed!) for a buildable, soft-edged, just-kissed look. Give your natural lips a little something extra, with shades Malt, Fuzz, Cake, and Leo, or go for vivid Punch, Zip, Jam and Crush to really grab the attention. Key ingredients: A surge of Blue Agave Extract, Vitamin E, and Wax-Bound Sodium Hyaluronate create a silky-smooth feel with every swipe. Wax Matrix : A combination of sunflower seed wax and sodium hyaluronate that creates a smooth, cushiony texture and feel on lips and protects against bullet breakage. Blue Agave Extract : Provides skin conditioning and antioxidant properties for nourishing, comfortable wear. Vitamin E : An essential vitamin that immediately helps soothe and care for dry skin while helping improve skin’s resilience to moisture loss and urban pollutants. Soft Focus Elasto-Powder : Provides the unique mattifying-but-not-drying effect while lips remain feeling smooth and conditioned. Product details : Eas",
+      "keyIngredients": [
+        "sodium hyaluronate",
+        "vitamin e",
+        "hyaluronate"
+      ],
+      "price": "CA$27.00",
+      "url": "https://www.glossier.com/en-ca/products/generation-g",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-makeup-geng-cake-carousel-01.png?width=160"
+    },
+    {
+      "name": "Wavy Tray",
+      "handle": "wavy-tray",
+      "type": "Merch",
+      "shortDescription": "From our space, to your place. Bring a bit of our world to yours with this 10th anniversary exclusive acrylic tray.",
+      "description": "From our space, to your place. Bring a bit of our world to yours with this 10th anniversary exclusive acrylic tray. A beloved staple from our stores, it’s perfect for displaying your makeup or holding your favorite cleansing bar. Size : 3.98 L X 3.23 W X 0.63 H Materials : 100% Cast Resin. Made in China.",
+      "keyIngredients": [],
+      "price": "CA$27.00",
+      "url": "https://www.glossier.com/en-ca/products/wavy-tray",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-wavytray-carousel-01.png?width=160"
+    },
+    {
+      "name": "Lip Gloss",
+      "handle": "lip-gloss",
+      "type": "Makeup",
+      "shortDescription": "A vibrant, high-shine lip gloss. A comfortable lip gloss with a glassy finish and just the right amount of sticky. The applicator delivers instant shine with one swipe.",
+      "description": "A vibrant, high-shine lip gloss. A comfortable lip gloss with a glassy finish and just the right amount of sticky. The applicator delivers instant shine with one swipe. Key ingredients : Vitamin E and Jojoba Oil work together to keep lips cushion-soft and moisturized. Conditioning Jojoba Oil : Helps the gloss smooth on and spread out evenly—no goopy feeling! Vitamin E Acetate : Leaves lips feeling moisturized and cushiony soft Product details : Dermatologist-tested, formulated without alcohol, and formulated without fragrance. Enhancing Cruelty-free Vegan",
+      "keyIngredients": [
+        "vitamin e",
+        "jojoba"
+      ],
+      "price": "CA$25.00",
+      "url": "https://www.glossier.com/en-ca/products/lip-gloss",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-lip-gloss-clear-01.png?width=160"
+    },
+    {
+      "name": "Sharpener",
+      "handle": "sharpener",
+      "type": "Makeup",
+      "shortDescription": "Pencil precision Keep your essentials in prime condition with this eye + lip liner sharpener featuring a German-engineered blade for smooth, precise lines every time. Product details: German-engineered blade",
+      "description": "Pencil precision Keep your essentials in prime condition with this eye + lip liner sharpener featuring a German-engineered blade for smooth, precise lines every time. Product details: German-engineered blade",
+      "keyIngredients": [],
+      "price": "CA$13.00",
+      "url": "https://www.glossier.com/en-ca/products/sharpener",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-carousel-lipline-sharpener-01.png?width=160"
+    },
+    {
+      "name": "Glossier Utility Bag",
+      "handle": "glossier-utility-bag",
+      "type": "Merch",
+      "shortDescription": "A take-everywhere, hold-everything tote. Flaunt both storage and style with this sturdy, strapped canvas bag embossed with Glossier’s birthplace and year— New York, New York, 2014.",
+      "description": "A take-everywhere, hold-everything tote. Flaunt both storage and style with this sturdy, strapped canvas bag embossed with Glossier’s birthplace and year— New York, New York, 2014. Carry all and carry on with seven durable pockets for products, personal belongings and everything in between. Materials : Exterior: Cotton / Interior: Polyester Care: wipe clean with damp cloth",
+      "keyIngredients": [],
+      "price": "CA$76.00",
+      "url": "https://www.glossier.com/en-ca/products/glossier-utility-bag",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-carousel-utilitybag-01.png?width=160"
+    },
+    {
+      "name": "Field Greens Blanket",
+      "handle": "field-greens-blanket",
+      "type": "Merch",
+      "shortDescription": "The ultimate knit blanket. Big enough to cuddle under, cozy enough to want to keep all to yourself. Our 100% cotton knitwear blanket (originally a holiday gift for the gTEAM!) is back for all your lounging needs.",
+      "description": "The ultimate knit blanket. Big enough to cuddle under, cozy enough to want to keep all to yourself. Our 100% cotton knitwear blanket (originally a holiday gift for the gTEAM!) is back for all your lounging needs. This super soft (and never itchy) blanket will be loved by you and your pets. Size : 50” x 50” Materials : 100% cotton .",
+      "keyIngredients": [],
+      "price": "CA$88.00",
+      "url": "https://www.glossier.com/en-ca/products/field-greens-blanket",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-field-greensblanket-carousel-01.png?width=160"
+    },
+    {
+      "name": "Solution",
+      "handle": "solution",
+      "type": "Skincare",
+      "shortDescription": "A daily exfoliator that transforms the look of skin in just four weeks. A daily skin-perfecting exfoliator that transforms the look and feel of your complexion by gently “ungluing” dull, dead skin and sweeping it away.",
+      "description": "A daily exfoliator that transforms the look of skin in just four weeks. A daily skin-perfecting exfoliator that transforms the look and feel of your complexion by gently “ungluing” dull, dead skin and sweeping it away. With everyday use, a 10% blend of exfoliating acids help improve the appearance of uneven texture, visibly reduce the look of blemishes, and refine the appearance of enlarged pores for smoother, softer, glowier-looking skin. Key ingredients: Features a triple threat of gentle yet powerful acid groups: Alpha Hydroxy Acid (AHA), Beta Hydroxy Acid (BHA), and Polyhydroxy Acid (PHA). Salicylic Acid BHA : Unclogs pores by breaking oil bonds attached to dead skin Glycolic Acid Brightening AHA : Breaks water bonds attached to dead skin, improving tone and texture. Lactic Acid AHA : Reduces the appearance of dark spots. Gluconolactone PHA : Exfoliates while moisturizing and conditioning. Ultra Nourishing Complex : Aloe, Niacinamide, and Glycerin condition and moisturize. Product details: Illuminating Smoothing Cruelty free Vegan Dermatologist-tested, good for all skin types 4.4 fl oz / 130 ml",
+      "keyIngredients": [
+        "niacinamide",
+        "glycerin",
+        "salicylic acid",
+        "glycolic acid",
+        "lactic acid",
+        "aloe"
+      ],
+      "price": "CA$41.00",
+      "url": "https://www.glossier.com/en-ca/products/solution",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-skincare-solution-carousel-01.png?width=160"
+    },
+    {
+      "name": "Mini Beauty Bag",
+      "handle": "mini-beauty-bag",
+      "type": "Merch",
+      "shortDescription": "A classic, made mini. Small but mighty, this beloved bag keeps all your can’t-leave-home-without-them essentials within reach.",
+      "description": "A classic, made mini. Small but mighty, this beloved bag keeps all your can’t-leave-home-without-them essentials within reach. With one main compartment and a zipper closure, the Mini Beauty Bag allows you to experience the convenience of our classic Beauty Bag wherever you may go. Now in two fun colors—iconic red and soft pink. Product details : 6.75\" Across, 4.5\" Tall, 2\" Depth & Gusset Exterior: Cotton Interior: Polyester",
+      "keyIngredients": [],
+      "price": "CA$47.00",
+      "url": "https://www.glossier.com/en-ca/products/mini-beauty-bag",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-pink-beautybag-carousel-01.png?width=160"
+    },
+    {
+      "name": "Milky Jelly Cleanser",
+      "handle": "milky-jelly-cleanser",
+      "type": "Skincare",
+      "shortDescription": "A super gentle cleansing experience . A pH-balanced gel-cream cleanser that’s suitable for all skin types.",
+      "description": "A super gentle cleansing experience . A pH-balanced gel-cream cleanser that’s suitable for all skin types. Formulated with gentle, conditioning ingredients, this cleanser dissolves dirt, oil and makeup while leaving skin soft and nourished–never stripped. Key ingredients: Formulated with 5 deep conditioning ingredients—including Pro-Vitamin B5 and Allantoin—for smooth, baby-soft skin. Rose Water : We replaced 1/4 of the H2O content with soothing rose water (bonus: smells great!). Comfrey Root Extract : Contains allantoin, which is like dry skin’s comforting best friend. Xylitol : Humectant that helps boost skin’s water reserves and reinforce its moisture barrier. Pro-Vitamin B5 : Like the nutrient found in mushrooms, avocados, and lentils, it’s a powerful natural and nourishing moisturizer. Product details : Dermatologist-tested, vegan, non-comedogenic, formulated without fragrance, ophthalmologist tested, suitable for sensitive eyes and contacts lens wearers. Nourishing Soothing",
+      "keyIngredients": [
+        "rose water",
+        "allantoin",
+        "comfrey",
+        "pro-vitamin b5"
+      ],
+      "price": "CA$33.00",
+      "url": "https://www.glossier.com/en-ca/products/milky-jelly-cleanser",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-skincare-mjc177ml-carousel-1.png?width=160"
+    },
+    {
+      "name": "After Baume",
+      "handle": "glossier-after-baume",
+      "type": "Skincare",
+      "shortDescription": "A puffer jacket for your skin. A daily moisture barrier recovery cream perfect for very dry and/or sensitive skin.",
+      "description": "A puffer jacket for your skin. A daily moisture barrier recovery cream perfect for very dry and/or sensitive skin. The buttery, cocooning cream formulated with plant-based moisture magnets, Glycerin and Cupuaçu Butter, helps dry skin bounce back and lock in hydration for up to 24 hours. Awarded the National Eczema Association Seal of Acceptance™ Conditioning Hydrating Non-comedogenic Vegan Cruelty Free",
+      "keyIngredients": [
+        "glycerin",
+        "cupuaçu"
+      ],
+      "price": "CA$46.00",
+      "url": "https://www.glossier.com/en-ca/products/glossier-after-baume",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-0814-after-baume-carousel-1.png?width=160"
+    },
+    {
+      "name": "Full Orbit",
+      "handle": "full-orbit",
+      "type": "Skincare",
+      "shortDescription": "A 360° reset for every, single eye.",
+      "description": "A 360° reset for every, single eye. A multi-benefit, 360° eye cream that tackles the concerns you care about most—immediately hydrating for up to 24 hours and depuffing while visibly brightening dark circles and smoothing the look of fine lines. Our unique lightweight, gel-cream texture (less likely to cause milia!) is fit for under eyes, on eyelids and along the orbital bone for overall fresher, brighter-looking eyes. Key ingredients: Our lightweight, gel-cream formula is packed with powerful ingredients that do it all—hydrate, brighten, smooth, and de-puff the entire eye area for a full circle reset. Polyglutamic Acid and Hyaluronic Acid : An ultra-hydrating Glossier-exclusive complex draws moisture into the skin for intense hydration while simultaneously helping to minimize moisture loss throughout the day. White Hawthorn & Jasmine Flower : Together, these extracts deliver an overall brightening effect and reduce the appearance of dark circles related to two common causes: hyperpigmentation and poor microcirculation. Niacinamide and Arctic Microalgae : Niacinamide (an active form of Vitamin B3 that helps smooth the look of the skin’s surface) paired with Arctic Microalgae (an ex",
+      "keyIngredients": [
+        "niacinamide",
+        "hyaluronic acid",
+        "polyglutamic acid"
+      ],
+      "price": "CA$38.00",
+      "url": "https://www.glossier.com/en-ca/products/full-orbit",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-skincare-full-orbit-carousel-01.png?width=160"
+    },
+    {
+      "name": "Stretch Face Brush",
+      "handle": "stretch-face-brush",
+      "type": "Makeup",
+      "shortDescription": "Palm-held, seamless application. The curved shape glides across the contours of your face for an easy, streak-free finish.",
+      "description": "Palm-held, seamless application. The curved shape glides across the contours of your face for an easy, streak-free finish. With short, dense, super-soft bristles for buffing, a targeted tip for those hard-to-blend areas, and swivel cover—it’s your new grab-and-go-to face brush. Product Details: Vegan Made with undyed synthetic hair.",
+      "keyIngredients": [],
+      "price": "CA$38.00",
+      "url": "https://www.glossier.com/en-ca/products/stretch-face-brush",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-makeup-stretch-face-brush-carousel-01.png?width=160"
+    },
+    {
+      "name": "Terrazzo Hoodie",
+      "handle": "terrazzo-hoodie",
+      "type": "Merch",
+      "shortDescription": "Your holiday hoodie. Extra-plush and cut for a relaxed, slightly oversized fit, our Terrazzo Hoodie is back for a limited time.",
+      "description": "Your holiday hoodie. Extra-plush and cut for a relaxed, slightly oversized fit, our Terrazzo Hoodie is back for a limited time. Like our other hoodies, it features a super-soft, fleecy inside, our signature Glossier logo on the front, and a subtle speckled pattern. Materials : 70% cotton; 30% polyester fleece.",
+      "keyIngredients": [],
+      "price": "CA$88.00",
+      "url": "https://www.glossier.com/en-ca/products/terrazzo-hoodie",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-terrazzo-hoodie-carousel-01.png?width=160"
+    },
+    {
+      "name": "Glossier You",
+      "handle": "glossier-you",
+      "type": "Fragrance",
+      "shortDescription": "The ultimate personal fragrance. A soft, warm and familiar fragrance formulated to be a skin-scent enhancer–meaning it smells a little different on everyone.",
+      "description": "The ultimate personal fragrance. A soft, warm and familiar fragrance formulated to be a skin-scent enhancer–meaning it smells a little different on everyone. With sparkling Pink Pepper, earthy Iris, and a warm, musky base of Ambrox and Ambrette, it leaves a scent impact that is uniquely you. Available sizes: 8 mL, 50 mL, 100 mL Mainly made up of base notes, Glossier you. lets more of you shine through. Key ingredients: Pink Pepper: Spicy, sparkling, bright Iris: Earthy, floral, woody Ambrette Seeds: Comfy, warm, sweet Ambrox: Smooth, salty, animalic Glossier you. comes packaged in a recyclable, molded paper carton and secured with a reusable rubber band for safe transit. Cruelty-free, vegan",
+      "keyIngredients": [],
+      "price": "CA$157.00",
+      "url": "https://www.glossier.com/en-ca/products/glossier-you",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-fragrance-you-01.png?width=160"
+    },
+    {
+      "name": "Duffle Bag",
+      "handle": "duffle-bag",
+      "type": "Merch",
+      "shortDescription": "A take-everywhere, hold-everything bag. Meet your new go-to gym bag, long-weekend satchel, carry-everything, chic-and-sporty duffle.",
+      "description": "A take-everywhere, hold-everything bag. Meet your new go-to gym bag, long-weekend satchel, carry-everything, chic-and-sporty duffle. It comes equipped with a single main compartment, two interior pockets, a side pocket, and an adjustable, detachable shoulder strap. A desert rose colorway, with a sand-colored bag, peach straps and burgundy Glossier logo. Size: 20” x 10” x 10” Product Details: Exterior: Nylon Interior: Polyester Color: Desert Rose Care: Wipe clean with damp cloth.",
+      "keyIngredients": [],
+      "price": "CA$74.00",
+      "url": "https://www.glossier.com/en-ca/products/duffle-bag",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-dufflebag-carousel-01.png?width=160"
+    },
+    {
+      "name": "Limited Edition Embroidered Cream Hoodie",
+      "handle": "limited-edition-embroidered-cream-hoodie",
+      "type": "Merch",
+      "shortDescription": "Embroidered Cream Hoodie Glossier merch Summertime Glossiwear",
+      "description": "Embroidered Cream Hoodie Glossier merch Summertime Glossiwear",
+      "keyIngredients": [],
+      "price": "CA$88.00",
+      "url": "https://www.glossier.com/en-ca/products/limited-edition-embroidered-cream-hoodie",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-creamhoodie-carousel-01.png?width=160"
+    },
+    {
+      "name": "Milky Oil",
+      "handle": "milky-oil",
+      "type": "Skincare",
+      "shortDescription": "Tough on makeup, nice on skin. A gentle makeup remover that melts away long-wearing and waterproof formulas—without needing to rub or tug the skin.",
+      "description": "Tough on makeup, nice on skin. A gentle makeup remover that melts away long-wearing and waterproof formulas—without needing to rub or tug the skin. The perfectly-proportioned blend of micellar water and weightless oil create a dual-phase formula that easily dissolves makeup, while Pro-Vitamin B5 conditions so your skin feels soft and fresh after use. Product Description: Conditioning Gentle Cruelty free Vegan Key Ingredients: Micellar Water Pro-Vitamin B5 Comfrey Root Extract",
+      "keyIngredients": [
+        "comfrey",
+        "pro-vitamin b5"
+      ],
+      "price": "CA$25.00",
+      "url": "https://www.glossier.com/en-ca/products/milky-oil",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-skincare-milky-oil-carousel-01.png?width=160"
+    },
+    {
+      "name": "The Beauty Bag",
+      "handle": "the-beauty-bag",
+      "type": "Merch",
+      "shortDescription": "Fits all the essentials. This bag is the ultimate home for your beauty routine. It’s tall enough to fit all of your essentials (even full-size skincare!), but still easily slips into your tote.",
+      "description": "Fits all the essentials. This bag is the ultimate home for your beauty routine. It’s tall enough to fit all of your essentials (even full-size skincare!), but still easily slips into your tote. The coated cotton material means you won’t have to worry about spills or splashes, with a removable snap-button interior pouch, and plenty of extra pockets to keep you organized—so you’re never stuck digging for your favorite products. Dimensions : 9.5” x 7” x 3”. Cotton exterior, polyester and rayon interior. Removable interior pouch, soft zip handles, tall enough for bottles to stand upright",
+      "keyIngredients": [],
+      "price": "CA$61.00",
+      "url": "https://www.glossier.com/en-ca/products/the-beauty-bag",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/products/glossier-beautybag-carousel-01.png?width=160"
+    },
+    {
+      "name": "Glossier Sweatshirt",
+      "handle": "glossier-sweatshirt",
+      "type": "Merch",
+      "shortDescription": "Here by popular demand. Here’s the story: originally made for our team at Glossier HQ (because our offices can get pretty chilly), then everyone started asking for them. So, we made more.",
+      "description": "Here by popular demand. Here’s the story: originally made for our team at Glossier HQ (because our offices can get pretty chilly), then everyone started asking for them. So, we made more. With a classic crewneck, raglan sleeves, and super soft, plush fleece interior—it feels like something you’ve worn (and loved) forever. Plus, now we can all match! Materials: 50% Polyester 40% Cotton 4% Rayon",
+      "keyIngredients": [],
+      "price": "CA$74.00",
+      "url": "https://www.glossier.com/en-ca/products/glossier-sweatshirt",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/products/glossier-greysweatshirt-carousel-01-updated.png?width=160"
+    },
+    {
+      "name": "Glossier You Solid",
+      "handle": "glossier-you-solid",
+      "type": "Fragrance",
+      "shortDescription": "Always with you. Glossier You, the ultimate personal fragrance, in the ultimate personal format—a refillable, pocket and travel-friendly, solid compact.",
+      "description": "Always with you. Glossier You, the ultimate personal fragrance, in the ultimate personal format—a refillable, pocket and travel-friendly, solid compact. The solid formula is softer and more intimate, with an alcohol-free, anhydrous wax base that quite literally melts into skin and holds the fragrance close, almost like it’s a part of you. Instead of being surrounded by a cloud of scent, you get friendly reminders throughout the day when you catch a whiff of your wrist or neck of your sweater—creamy, warm, sparkling notes of ambrox, ambrette, musk, iris root and pink pepper. Key ingredients: Pink Pepper: Spicy, sparkling, bright Iris: Earthy, floral, woody Ambrette Seeds: Comfy, warm, sweet Ambrox: Smooth, salty, animalic Product details : Buildable Cruelty free Refillable Vegan",
+      "keyIngredients": [],
+      "price": "CA$47.00",
+      "url": "https://www.glossier.com/en-ca/products/glossier-you-solid",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-fragrance-you-solid-01.png?width=160"
+    },
+    {
+      "name": "Glossier You Solid Refill",
+      "handle": "glossier-you-solid-refill",
+      "type": "Fragrance",
+      "shortDescription": "Can’t get enough of you . The solid refill of our ultimate personal fragrance, Glossier You.",
+      "description": "Can’t get enough of you . The solid refill of our ultimate personal fragrance, Glossier You. The solid formula is softer and more intimate, with an alcohol-free, anhydrous wax base that quite literally melts into skin and holds the fragrance close, almost like it’s a part of you. Instead of being surrounded by a cloud of scent, you get friendly reminders throughout the day when you catch a whiff of your wrist or neck of your sweater—creamy, warm, sparkling notes of ambrox, ambrette, musk, iris root and pink pepper. Key ingredients: Pink Pepper: Spicy, sparkling, bright Iris: Earthy, floral, woody Ambrette Seeds: Comfy, warm, sweet Ambrox: Smooth, salty, animalic Product details : Buildable Cruelty free Refillable Vegan",
+      "keyIngredients": [],
+      "price": "CA$34.00",
+      "url": "https://www.glossier.com/en-ca/products/glossier-you-solid-refill",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-fragrance-you-solidrefill-01.png?width=160"
+    },
+    {
+      "name": "Lidstar",
+      "handle": "lidstar",
+      "type": "Makeup",
+      "shortDescription": "Dreamy, shimmering eyeshadow. This soft, glistening eyeshadow creates a sheer, shimmering veil of color—locking onto lids and lasting all day without creasing.",
+      "description": "Dreamy, shimmering eyeshadow. This soft, glistening eyeshadow creates a sheer, shimmering veil of color—locking onto lids and lasting all day without creasing. Ultrafine pigments float through a buttery base for a silky, blendable formula that swipes on seamlessly and maintains its pretty, glistening look long after it settles. Available in 8 shades with different pearls, flecks, and special effects for the lit-from-within, multi-dimensional glow of your dreams. Key ingredients: Softlock Technology locks pigment and pearls onto lids for up to 12 hours—without fading, smudging, or creasing (so there’s no need for primer!). Floating Multicolor Pearls : Ultrafine reflective pearls, in colorways custom-balanced for each shade. Film-Forming Polymers : Flexible polymers that use thermoplastic elastomers and silicone resins for substantivity. Angled Doe Foot Applicator : The long edge allows even distribution across the lid, with a precision tip for detailing. Product details: Easy Enhancing Longwearing Cruelty-free Dermatologist-tested, formulated without fragrance, ophthalmologist-tested, suitable for sensitive eyes and contact lens wearers",
+      "keyIngredients": [],
+      "price": "CA$27.00",
+      "url": "https://www.glossier.com/en-ca/products/lidstar",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-lidstar-herb-01.png?width=160"
+    },
+    {
+      "name": "Body Hero Dry-Touch Oil Mist",
+      "handle": "body-hero-dry-touch-oil-mist",
+      "type": "Body",
+      "shortDescription": "A quick escape into luxury. Escape into luxury with the Body Hero you love, in a transportive dry-touch mist.",
+      "description": "A quick escape into luxury. Escape into luxury with the Body Hero you love, in a transportive dry-touch mist. With an intoxicating Orange Blossom Neroli scent, this ultra-fine body oil packed with Sea Fennel Extract and a blend of three antioxidant-rich oils—Sunflower Seed, Grapeseed, and Oat—instantly moisturizes while smoothing and evening skin tone and improving all over radiance. The formula absorbs fast with zero residue, stickiness, or awkward naked dry-down time (so you can put your clothes on quicker). Plus, the sparkling, subtle aroma lingers just enough for that just-got-back-from vacation scent and glow. Product Details: Cruelty Free Nourishing Vegan Fast absorption Softening Key Ingredients: A super lightweight blend of vitamin and antioxidant-rich natural oils moisturize and brighten, settling to a touchable, non-greasy finish. Grapeseed Oil Sunflower Seed Oil Sea Fennel Extract Orange Blossom Neroli Blend",
+      "keyIngredients": [],
+      "price": "CA$41.00",
+      "url": "https://www.glossier.com/en-ca/products/body-hero-dry-touch-oil-mist",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-bodyhero-oilmoist-carousel-01.png?width=160"
+    },
+    {
+      "name": "Body Hero Exfoliating Bar",
+      "handle": "body-hero-exfoliating-bar",
+      "type": "Body",
+      "shortDescription": "Raising the bar on exfoliation. Our ergonomically-designed, no-mess body scrub bar fits in the palm of your hand and sloughs away dead skin and dryness to reveal baby-smooth skin.",
+      "description": "Raising the bar on exfoliation. Our ergonomically-designed, no-mess body scrub bar fits in the palm of your hand and sloughs away dead skin and dryness to reveal baby-smooth skin. Finely-milled, biodegradable Bamboo Powder provides powerful (yet never painfully powerful) scrub action that exfoliates for skin that feels instantly softer and smoother. Sunflower Seed Oil and Aloe Leaf juice lock in moisture, so you’ll never feel that stripped soapy feeling, while Orange Blossom Neroli Blend adds the fresh, sparkling scent of pear, mandarin, and cypress. Don’t forget to inhale, exhale, and relax for an instant shower (or bubble bath) upgrade. Product Details: Cruelty Free Vegan Smoothing Softening Key Ingredients: Bamboo Powder Sunflower Seed Oil Aloe Leaf Juice Orange Blossom Neroli Blend",
+      "keyIngredients": [
+        "aloe"
+      ],
+      "price": "CA$25.00",
+      "url": "https://www.glossier.com/en-ca/products/body-hero-exfoliating-bar",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/products/glossier-body-exfoliating-carousel-01.png?width=160"
+    },
+    {
+      "name": "Deodorant Refill Stick",
+      "handle": "deodorant-refill-stick",
+      "type": "Body",
+      "shortDescription": "Pop in, swipe on. 2024 Allure Best of Beauty Award-Winner. A refill for your Deodorant case. Re-up on your signature scent or pop in a new one.",
+      "description": "Pop in, swipe on. 2024 Allure Best of Beauty Award-Winner. A refill for your Deodorant case. Re-up on your signature scent or pop in a new one. Formulated without aluminum, baking soda, exfoliating acids or water—aka things that can cause bad odor, disrupt the skin’s pH level and cause irritation—our Deodorant keeps it gentle (but mighty!) with ingredients that work for every underarm. Available in three signature scents (Sandstone, Glossier You and Orange Blossom Neroli) plus Unscented, these refill sticks will outdo any odor. Key ingredients : Superfruit Elderberry Extract and Coconut Oil : Keep underarm skin nourished and conditioned, helping to reduce odors. Potato Starch : A naturally-derived ingredient that absorbs moisture, helping your pits feel drier. Magnesium Hydroxide : A pH-adjuster and absorbent that helps to reduce those dreaded sweat stains, letting your clothes stay fresher and longer Product details : Dermatologist-tested Conditioning Vegan Cruelty-free",
+      "keyIngredients": [],
+      "price": "CA$25.00",
+      "url": "https://www.glossier.com/en-ca/products/deodorant-refill-stick",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/products/glossier-deorefill-unscented-carousel-01.png?width=160"
+    },
+    {
+      "name": "Super Glow",
+      "handle": "super-glow",
+      "type": "Skincare",
+      "shortDescription": "A nourishing Vitamin C serum for visibly smoother, more even-toned skin over time. A lightweight, nourishing serum formulated with 5% Vitamin C derivative and Magnesium PCA.",
+      "description": "A nourishing Vitamin C serum for visibly smoother, more even-toned skin over time. A lightweight, nourishing serum formulated with 5% Vitamin C derivative and Magnesium PCA. These ingredients team up to even skin tone, improve the appearance of dark spots, and replenish moisture for recharged, refreshed and glowy skin. Key ingredients : Pro-Vitamin B5 and three molecular weights of Hyaluronic Acid pull moisture into the skin like a magnet (and keep it there) for instantly smooth, silky skin and long-lasting hydration. 5% Vitamin C derivative (Magnesium Ascorbyl Phosphate aka MAP) : A more stable form of Vitamin C, it helps improve the appearance of dark spots and creates smoother, brighter-looking skin. Magnesium PCA : Like a fresh battery, it energizes tired-looking skin. Clinical studies : In a clinical study, Super Glow gave users a brighter, more energized glow in just 2 weeks. The Super Glow consumer study was conducted by a third-party testing facility and included 30 people between the ages of 18 and 55. They used the product in plain packaging for eight weeks and completed a questionnaire based on their experience. 90% s aid the product gave them a healthy glow after 2 week",
+      "keyIngredients": [
+        "hyaluronic acid",
+        "vitamin c",
+        "pro-vitamin b5"
+      ],
+      "price": "CA$46.00",
+      "url": "https://www.glossier.com/en-ca/products/super-glow",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-skincare-super-glow-carousel-01.png?width=160"
+    },
+    {
+      "name": "Super Bounce",
+      "handle": "super-bounce",
+      "type": "Skincare",
+      "shortDescription": "A refreshing Hyaluronic Acid serum for an instantly soft, smooth (never sticky!) canvas. A fast-absorbing, super refreshing serum with a soothing combo of 2% Hyaluronic Acid Complex and Pro-Vitamin B5.",
+      "description": "A refreshing Hyaluronic Acid serum for an instantly soft, smooth (never sticky!) canvas. A fast-absorbing, super refreshing serum with a soothing combo of 2% Hyaluronic Acid Complex and Pro-Vitamin B5. Beneath the skin, this one-two punch gets to work, deeply hydrating on multiple layers for a visibly smooth, soft (and never sticky) canvas. Key ingredients : Pro-Vitamin B5 and three molecular weights of Hyaluronic Acid pull moisture into the skin like a magnet (and keep it there) for instantly smooth, silky skin and long-lasting hydration. 2% Hyaluronic Acid Complex : A mega hydrator. Three molecular weights of Hyaluronic Acid deliver immediate and long-term hydration. Pro-Vitamin B5 : Like the nutrient found naturally in mushrooms, avocados, and lentils, Pro-Vitamin B5 helps reveal skin that looks softer and more supple. Clinical studies : Super Bounce made skin look and feel smoother, softer and more hydrated in just 4 weeks. The Super Bounce consumer study was conducted by a third-party testing facility and included 30 people between the ages of 18 and 55. They used the product in plain packaging for four weeks and completed a questionnaire based on their experience. 80% said th",
+      "keyIngredients": [
+        "hyaluronic acid",
+        "pro-vitamin b5"
+      ],
+      "price": "CA$46.00",
+      "url": "https://www.glossier.com/en-ca/products/super-bounce",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/products/glossier-super-bounce-carousel-01_76a56806-4efa-4df0-9beb-2f030da73fa3.png?width=160"
+    },
+    {
+      "name": "Priming Moisturizer Balance",
+      "handle": "priming-moisturizer-balance",
+      "type": "Skincare",
+      "shortDescription": "One step to moisturize, control shine, and refine the look of pores—specifically formulated for oily and combination skin.",
+      "description": "One step to moisturize, control shine, and refine the look of pores—specifically formulated for oily and combination skin. A fast-absorbing, lightweight gel-cream moisturizer that balances oil without over-drying or leaving a powdery finish. Immediately, thanks to Marine Extract and Niacinamide, pores appear smaller, shine is gone, and skin is hydrated and happy—with more skin-balancing benefits over time. Product Details: Balancing Refining Moisturizing Cruelty free Non-comedogenic Vegan Key Ingredients: Natural extracts—Willow Bark and Apple Fruit—visibly smooth skin and lock in moisture for a balanced, mattified complexion that’s never flat or dull. Apple Fruit Extract Marine Extract Niacinamide Willow Bark Extract Bamboo Extract",
+      "keyIngredients": [
+        "niacinamide"
+      ],
+      "price": "CA$35.00",
+      "url": "https://www.glossier.com/en-ca/products/priming-moisturizer-balance",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-skincare-pmb-carousel-01.png?width=160"
+    },
+    {
+      "name": "Priming Moisturizer Rich",
+      "handle": "priming-moisturizer-rich",
+      "type": "Skincare",
+      "shortDescription": "Dry skin’s best friend—an ultra rich, buttery moisturizer. A luxuriously rich yet fast-absorbing face cream that delivers a surge of long-lasting hydration.",
+      "description": "Dry skin’s best friend—an ultra rich, buttery moisturizer. A luxuriously rich yet fast-absorbing face cream that delivers a surge of long-lasting hydration. The buttery texture and blend of botanical oils and glycerin melt into skin to give you a smooth, dewy finish that’s perfectly prepped for makeup. Key ingredients: Rich in ceramides and fatty acids that reinforce skin’s natural moisture barrier, lock-in moisture long-term, and improve radiance over time. Glycerin : Mimics the skin’s natural moisture factor for ultimate hydration. Customized Power Primers : Tailored to dry skin, creates a smooth base and prepares skin before makeup. Ceramides 3 & 6 : Oily waxes that naturally occur in skin and fortify its moisture barrier Essential Key Fatty Acids : Babassu oil provides lipid-rich fatty acids, helping to seal in moisture. Buddleja Officinalis Flower Extract : Antioxidant known to soothe dry skin and helps prevent photoaging through blue light protection. Clinical studies: The Priming Moisturizer Rich consumer study was conducted by a third-party testing facility and included 33 people between the ages of 18 and 50. They used the product in plain packaging for one day and complet",
+      "keyIngredients": [
+        "glycerin",
+        "ceramides",
+        "ceramide"
+      ],
+      "price": "CA$47.00",
+      "url": "https://www.glossier.com/en-ca/products/priming-moisturizer-rich",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-skincare-priming-moisturizer-rich-carousel-1.png?width=160"
+    },
+    {
+      "name": "Super Pure",
+      "handle": "super-pure",
+      "type": "Skincare",
+      "shortDescription": "A waterweight Niacinamide serum to reset and balance skin in four weeks. A daily vitamin and mineral duo of Zinc PCA and 5% Niacinamide (the perfect amount to be effective without irritating skin).",
+      "description": "A waterweight Niacinamide serum to reset and balance skin in four weeks. A daily vitamin and mineral duo of Zinc PCA and 5% Niacinamide (the perfect amount to be effective without irritating skin). This double dose nourishes skin for visibly smoother texture, smaller-looking pores, and improved clarity. Key ingredients : 5% Niacinamide and Zinc PCA help keep thirsty skin quenched (but never oily), visibly improves the look of texture and pores, and helps soothe irritation caused by breakouts. 5% Niacinamide : An essential vitamin (an active form of B3) that has great skin benefits! Gentle enough for daily use, it helps keep skin moisturized and visibly improves the look of texture and pores. Zinc PCA : Known to soothe irritation caused by breakouts. Over time, it can help sort out oiliness, while simultaneously holding moisture in the skin—resulting in that highly-sought-after balance of not-too-shiny and comfortably hydrated. Clinical studies : In a clinical study, Super Pure gave users visibly clearer, more balanced skin. The Super Pure consumer study was conducted by a third-party testing facility and included 30 people between the ages of 18 and 35. They used the product in pla",
+      "keyIngredients": [
+        "niacinamide",
+        "zinc"
+      ],
+      "price": "CA$46.00",
+      "url": "https://www.glossier.com/en-ca/products/super-pure",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-skincare-super-pure-carousel-01.png?width=160"
+    },
+    {
+      "name": "Futuredew",
+      "handle": "futuredew",
+      "type": "Skincare",
+      "shortDescription": "An instant, dewy glow that lasts. An oil-serum hybrid that's a one-step shortcut to the way your skin looks after a full skincare routine.",
+      "description": "An instant, dewy glow that lasts. An oil-serum hybrid that's a one-step shortcut to the way your skin looks after a full skincare routine. Packed with some of skincare’s most hydrating heavy-hitters, nourishing oils and powerful plant-based extracts give you a gleamy, well-moisturized, brighter look that lasts up to 12 hours. Key ingredients : Powerful plant-based extracts make your skin look brighter instantly and enhance your glow over time. Blend of 4 Nourishing Oils : Jojoba, Grape Seed, Evening Primrose, and Rosehip Oils are suspended in a water-in-oil emulsion, creating a cushiony, silky formula that hydrates thirsty skin while it nourishes. Evodia Rutaecarpa Extract : Fruit extract known to visibly increase brightness. Sugarcane Squalane: Plant-based ingredient that helps lock in moisture. Light-Reflecting Minerals : Gives all skin tones an immediate glow that lasts all day. Product details : Dermatologist tested, good for all skin types Nourishing Enhancing Longwearing Cruelty-Free Non-comedogenic Vegan",
+      "keyIngredients": [
+        "squalane",
+        "jojoba"
+      ],
+      "price": "CA$41.00",
+      "url": "https://www.glossier.com/en-ca/products/futuredew",
+      "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-skincare-futuredew-carousel-01.png?width=160"
+    }
+  ]
+}

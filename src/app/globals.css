@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body { @apply bg-[#f3efe8] text-ink antialiased; }
+
+[data-brand="glossier"] .ops-frame {
+  border-width: 1px;
+  border-color: rgb(0 0 0 / 0.1);
+}
+[data-brand="glossier"] .ops-head { background-color: #f6ebe6; }
+[data-brand="glossier"] .ops-bar { background-color: #1a1a1a; }
+[data-brand="glossier"] .ops-chip { background-color: #f6ebe6; }
